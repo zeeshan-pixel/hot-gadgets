@@ -1,6 +1,24 @@
+.container{
+    margin-bottom: 10px; 
+}
 .site-logo{
     height: 55px;
 }
 .nav-padding{
     padding-top: 20px;
+}
+.banner-bg{
+    background-color: lightcyan;
+    border-radius: 10px;
+}
+.carousel-item{
+    padding: 20px 40px;
+}
+.buy-now-button{
+    background-image: linear-gradient(to bottom, grey 0%, black 100%);
+    color: whitesmoke;
+    border: none;
+    border-radius: 5px;
+    padding: 9px 25px;
+    cursor: pointer;
 }
